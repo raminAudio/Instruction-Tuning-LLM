@@ -7,7 +7,8 @@ August 14th/2023
 
 ## What? 
 
-Fine tuning Large Transformer like Flan-T5 for summarization. And how to Fine them using techniques such as PEFT and LoRA. 
+Fine tuning Large Transformer like Flan-T5 for summarization using Instruction Tuning and RLHF. 
+And how to Fine them using techniques such as PEFT and LoRA. 
 <!-- ![alt text](notebook/reddit_torchviz.png) -->
 
 
