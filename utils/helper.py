@@ -9,6 +9,9 @@ from transformers import pipeline
 import numpy as np
 from IPython.display import Image, display
 
+dataset_name = 'knkarthick/dialogsum'
+dataset = load_dataset(dataset_name)
+split = 'test'
 
 class Helper():
     def __init__(self,tokenizer):
