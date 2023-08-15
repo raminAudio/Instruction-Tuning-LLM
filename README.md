@@ -7,8 +7,7 @@ August 14th/2023
 
 ## What? 
 
-How to create your own GPT model from scratch on sub-reddits. 
-
+Fine tuning Large Transformer like Flan-T5 for summarization. And how to Fine them using techniques such as PEFT and LoRA. 
 <!-- ![alt text](notebook/reddit_torchviz.png) -->
 
 
